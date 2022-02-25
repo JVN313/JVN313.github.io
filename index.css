@@ -21,7 +21,8 @@ p {
 }
 /*IMage Styles*/
 #pro-img {
-    max-width: 60%;
+    max-width: 40%;
+    min-width: 30%;
     height: auto;
     border: solid red 10px;
     border-radius: 50%;
@@ -57,11 +58,6 @@ li {
   box-shadow: -4px -4px 2px white;
   font-family: 'Permanent Marker', cursive;
 
-}
-
-#instagram {
-   margin-right: 25px;
-   display: none;
 }
 
 #facebook:hover, #instagram:hover, #twitch:hover, #twitter:hover {
