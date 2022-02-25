@@ -21,7 +21,7 @@ p {
 }
 /*IMage Styles*/
 #pro-img {
-    max-width: 30%;
+    max-width: 50%;
     height: auto;
     border: solid red 10px;
     border-radius: 50%;
