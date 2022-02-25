@@ -61,6 +61,7 @@ li {
 
 #instagram {
    margin-right: 25px;
+   display: none;
 }
 
 #facebook:hover, #instagram:hover, #twitch:hover, #twitter:hover {
