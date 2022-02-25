@@ -56,8 +56,11 @@ li {
   padding: 7px 70px;
   box-shadow: -4px -4px 2px white;
   font-family: 'Permanent Marker', cursive;
-  margin-right: 20px;
 
+}
+
+#instagram {
+   margin-right: 20px;
 }
 
 #facebook:hover, #instagram:hover, #twitch:hover, #twitter:hover {
