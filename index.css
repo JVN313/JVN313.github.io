@@ -68,3 +68,13 @@ li {
 .videos {
   display: none;
 }
+
+/*Full Screen Media Query*/
+
+@media (min-width: 900px) {
+
+.videos {
+display: flex;
+flex-direction: row;}
+
+}
